@@ -34,3 +34,6 @@ After cleaning, the cinemas dataset contains information about various movies, i
 - Pillow
 - requests
 - Tableau https://public.tableau.com/app/profile/alexandre.ghanzouri1300/viz/MovieDiscovery/MovieDiscoveryDashboard
+
+ ## Demo video
+ https://youtu.be/iLGoB1JLthY
